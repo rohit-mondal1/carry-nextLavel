@@ -1,0 +1,132 @@
+[
+  {
+    "id": "5",
+    "name": "TIE-DYE",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "WE THANK YOU FOR YOUR PURCHASE. EACH PURCHASE OF YOURS IS SPECIAL, AS IT HELPS US SERVE OUR CAUSE BETTER. ",
+
+    "image": [
+      "https://cdn.shopify.com/s/files/1/0605/0480/1480/products/S72504c7e9a7d4ebfaa720502b8a02a28E_300x300.jpg?v=1661233321,https://cdn.shopify.com/s/files/1/0605/0480/1480/p…e6d6-4624-a884-d43f22af1ff9_300x.jpg?v=1661233317",
+      "https://cdn.shopify.com/s/files/1/0605/0480/1480/p…9919-4214-8679-a74cf0d13b3b_300x.jpg?v=1661233322"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+
+    "category": "Orthopaedic Beds",
+    "color": "Tie-dye",
+    "rating": 4.8,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "TIE-DYE",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/S72504c7e9a7d4ebfaa720502b8a02a28E_720x.jpg?v=1661233321",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/files/Screenshot_2022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "YELLOW",
+    "price": "$49.49",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter. Easy Maintenance: Our pet bed is very easy to clean. No zippers to fuss with, just throw the whole bed in the machine and choose a gentle cycle. Do not bleach. To prevent matting, it's better to dry the bed in the DRYER on low heat after washing.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/S159ff4c…2d4436fbd982c1da5f0b5ca0_300x300.jpg?v=1661233320",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 4.5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "PINK",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter. Easy Maintenance: Our pet bed is very easy to clean. No zippers to fuss with, just throw the whole bed in the machine and choose a gentle cycle. Do not bleach. To prevent matting, it's better to dry the bed in the DRYER on low heat after washing.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/Sde659e7…d3e44f88ab5d8f35e024d6dn_300x300.jpg?v=1661233319",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 4.5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "PURPLE",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter. Easy Maintenance: Our pet bed is very easy to clean. No zippers to fuss with, just throw the whole bed in the machine and choose a gentle cycle. Do not bleach. To prevent matting, it's better to dry the bed in the DRYER on low heat after washing.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/S8d71417…043418b9d00bef9a8f7781fJ_300x300.jpg?v=1661233315",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 4.5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "COFFEE",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter. Easy Maintenance: Our pet bed is very easy to clean. No zippers to fuss with, just throw the whole bed in the machine and choose a gentle cycle. Do not bleach. To prevent matting, it's better to dry the bed in the DRYER on low heat after washing.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/See0c2ff…71d4dd38f048f5d0d4ba1e28_300x300.jpg?v=1661233327",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 4.5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "BLACK",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter. Easy Maintenance: Our pet bed is very easy to clean. No zippers to fuss with, just throw the whole bed in the machine and choose a gentle cycle. Do not bleach. To prevent matting, it's better to dry the bed in the DRYER on low heat after washing.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/S32b7b3b46e654638b3abf9aec17d24fc0_370x.jpg?v=1661233318",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  },
+  {
+    "id": "7",
+    "name": "BEIGE BROWN",
+    "price": "$49.99",
+    "description1": "MAKE YOUR PET ALL COMFY WITH THIS ORTHOPAEDIC BED 🐶",
+    "description2": "Pet-Safe Materials: Made of attractive luxurious faux fur. This plusH bed offers a safe and ideal situation for your pet to snooze. Your little furry friend will feel surrounded by love and warmth, allowing them to experience truly restful sleep. Comfort and Safety: Non-skid bottom keep the cat bed in place for worry-free placement on tile and hardwood floors in the home. The self-warming fleece fabric and  design keeps your pet warmer in winter. Easy Maintenance: Our pet bed is very easy to clean. No zippers to fuss with, just throw the whole bed in the machine and choose a gentle cycle. Do not bleach. To prevent matting, it's better to dry the bed in the DRYER on low heat after washing.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/S000692e…07c4f80930aedcf4e764311t_300x300.jpg?v=1661233312",
+      "https://thetinypaws.com/cdn/shop/products/S30cb36c…73b8-4c12-a8a5-2e46271692be_150x.jpg?v=1661233322",
+      "https://thetinypaws.com/cdn/shop/products/Sbf8df5c…8193-4f9f-8344-396137fd413d_150x.jpg?v=1661233325"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-23_at_11.04.12_AM_480x480.png?v=1661233374",
+    "category": "Orthopaedic Beds",
+    "rating": 4.5,
+    "Size": ["30cm", "40cm", "50cm", "60cm", "70cm"]
+  }
+]

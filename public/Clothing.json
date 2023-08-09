@@ -1,0 +1,146 @@
+[
+  {
+    "id": "4",
+    "name": "HAWAIIAN SHIRT",
+    "price": "$29.99",
+    "description1": "GET THE BEST CLOTHING FOR YOUR FAVOURITE PET 😍",
+    "description2": "OUR PET OUTFITS FEATURE UNIQUE, BREATHABLE, DURABLE FABRIC & QUALITY HARDWARE. THEY'RE MADE TO LAST: Reinforced stitching at all stress points for added strength  Breathable & comfortable fabric.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/product-image-1875447420_150x.jpg?v=1651667230",
+      "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…39a46a580ef877d0e7e8322s_480x480.jpg?v=1651667346 ",
+      "https://thetinypaws.com/cdn/shop/products/product-image-1875447432_150x.jpg?v=1651667239"
+    ],
+    "description img": "https://ae01.alicdn.com/kf/H9818922a2a0946f8821a04721f2dfc18G.jpg?width=800&height=800&hash=1600",
+    "category": "Clothing",
+    "rating": 4.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "SUMMER PET JERSEY",
+    "price": "$36.99",
+    "description1": "OUR PET OUTFITS FEATURE UNIQUE, BREATHABLE, DURABLE FABRIC & QUALITY HARDWARE. THEY'RE MADE TO LAST:",
+    "description2": "WE THANK YOU FOR YOUR PURCHASE. EACH PURCHASE OF YOURS IS SPECIAL, AS IT HELPS US SERVE OUR CAUSE BETTER.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/product-image-1999652130_150x.jpg?v=1651670624",
+      "https://thetinypaws.com/cdn/shop/products/product-image-1999652150_150x.jpg?v=1651670617",
+      "https://thetinypaws.com/cdn/shop/products/product-image-1999652155_150x.jpg?v=1651670622"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…e174f7c852098f2ca5980cfY_480x480.jpg?v=1651670832",
+    "category": "Clothing",
+    "rating": 5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "PRINT SWEATER",
+    "price": "$29.99",
+    "description1": "SPECIFICATIONS:",
+    "description2": "Type: Dogs/ Cats, Style: Fashion , Season: Autumn/Winter , Pattern: Print , Material: 100% Cotton",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/Hf50299e…ee44f879b0428621e995034V_300x300.jpg?v=1657255621",
+      "https://thetinypaws.com/cdn/shop/products/H2d74dd53232e4531ad5604edd43f4df0T_150x.jpg?v=1657255609",
+      "https://thetinypaws.com/cdn/shop/products/Hfee55c09aee248c29a08efce597f6e94P_150x.jpg?v=1657255624"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…90d4961959dc2eb31169140E_480x480.jpg?v=1657255757",
+    "category": "Clothing",
+    "rating": 4.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "COSTUME PET HOODIES",
+    "price": "$36.99",
+    "description1": "KEEP YOUR PET FASHIONABLE AND COMFY ALL DAY LONG",
+    "description2": "OUR PET OUTFITS FEATURE UNIQUE, BREATHABLE, DURABLE FABRIC & QUALITY HARDWARE. THEY'RE MADE TO LAST: Reinforced stitching at all stress points for added strength. Breathable & comfortable fabric.",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/H47f65652e66c4c47a3fc437455457298t_150x.jpg?v=1668921199",
+      "https://thetinypaws.com/cdn/shop/products/Hc723fc1…7de4c10b0473844f9d1b38cf_300x300.jpg?v=1668921074",
+      "https://thetinypaws.com/cdn/shop/products/H00e17db0da3140e29cae0e1ce1ac774f3_150x.jpg?v=1668921199"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…ot2022-11-19at11.16.18AM_480x480.png?v=1668838283",
+    "category": "Clothing",
+    "rating": 2.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "SECURITY OUTFIT",
+    "price": "$33.99",
+    "description1": "",
+    "description2": "Thickness: Thin. Season: All Seasons. Pattern: Solid. Material: 100% Cotton. Cleaning method: Hand wash / Machine wash",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/Hedcaf33…d-4e5e-9ef0-d4bb8d17342b_300x300.jpg?v=1666776698",
+      "https://thetinypaws.com/cdn/shop/products/Ha94685e…bf6f-48e7-a66f-54948cb7b91b_150x.jpg?v=1666776703",
+      "https://thetinypaws.com/cdn/shop/products/H6fa06db…09a0-4edb-a126-514fde74a767_150x.jpg?v=1666776715"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…999476ab59c2e9c7b428b50X_480x480.jpg?v=1663743372",
+    "category": "Clothing",
+    "rating": 4.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "BUTTERFLY BOWKNOT DRESS",
+    "price": "$36.99",
+    "description1": "SPECIFICATIONS",
+    "description2": "Thickness: Thin. Season: All Seasons. Pattern: Solid. Material: 100% Cotton. Cleaning method: Hand wash / Machine wash",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/S0422358f241244338853bb768b37ca78M_150x.jpg?v=1657251702",
+      "https://thetinypaws.com/cdn/shop/products/S2e854a6…7344aaa8f14fdd05e3150det_300x300.jpg?v=1657251704",
+      "https://thetinypaws.com/cdn/shop/products/S8eab1107e79d466b8298e823873b8a04b_150x.jpg?v=1657251708"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…9ed4f1cb25e0e8804eaeed0Y_480x480.jpg?v=1657251933",
+    "category": "Clothing",
+    "rating": 3.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "BRITISH PLAID SHIRT",
+    "price": "$33.99",
+    "description1": "SPECIFICATIONS",
+    "description2": "Thickness: Thin. Season: All Seasons. Pattern: Solid. Material: 100% Cotton. Cleaning method: Hand wash / Machine wash",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/H16b7595ffbf04ad49e718175f259e63cK_150x.jpg?v=1657257373",
+      "https://thetinypaws.com/cdn/shop/products/Hc527de9e3d8f4feab1819e8e4b914b21O_150x.jpg?v=1657257371",
+      "https://thetinypaws.com/cdn/shop/products/H5a818f1415404406b3dbccd71bed2e7ct_150x.jpg?v=1657257356"
+    ],
+    "description img": "https://thetinypaws.com/cdn/shop/products/H16b7595ffbf04ad49e718175f259e63cK_150x.jpg?v=1657257373",
+    "category": "Clothing",
+    "rating": 4.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "MAGICIAN SUIT",
+    "price": "$29.99",
+    "description1": "SPECIFICATIONS",
+    "description2": "Thickness: Thin. Season: All Seasons. Pattern: Solid. Material: 100% Cotton. Cleaning method: Hand wash / Machine wash",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/H2dc6b1d51237441abc182d4b41e2fe4fr_150x.jpg?v=1657256142",
+      "https://thetinypaws.com/cdn/shop/products/H2c35b803d4c24ad39cf84e9b0e6989f9z_150x.jpg?v=1657256143",
+      "https://thetinypaws.com/cdn/shop/products/H1c816b7311534c0ebbc5ef9d2428687ca_150x.jpg?v=1657256148"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…ed04d4c8b5a740bf9cd09b4n_480x480.jpg?v=1657256221",
+    "category": "Clothing",
+    "rating": 4.5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  },
+  {
+    "id": "4",
+    "name": "KONG HALLOWEEN COSTUME",
+    "price": "$33.99",
+    "description1": "SPECIFICATIONS",
+    "description2": "Thickness: Thin. Season: All Seasons. Pattern: Solid. Material: 100% Cotton. Cleaning method: Hand wash / Machine wash",
+    "image": [
+      "https://thetinypaws.com/cdn/shop/products/Hd1178a1cdce441e1a8f8a70c526ac89aq_150x.jpg?v=1661843726",
+      "https://thetinypaws.com/cdn/shop/products/He8383c729cfd4de3a1fd247e997b7a16I_150x.jpg?v=1661843736",
+      "https://thetinypaws.com/cdn/shop/products/Hec79a0e0c43d49afb8f000c71cc8ed12b_150x.jpg?v=1661843746"
+    ],
+    "description img": "https://cdn.shopify.com/s/files/1/0605/0480/1480/f…022-08-30_at_12.47.03_PM_480x480.png?v=1661843846",
+    "category": "Clothing",
+    "rating": 5,
+    "Size": ["xxl", "xl", "xs", "m", "s"]
+  }
+]

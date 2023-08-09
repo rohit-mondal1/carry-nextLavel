@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "For Cats",
+    "img": "https://thetinypaws.com/cdn/shop/collections/Uned-1_copy_720x.png?v=1641791782"
+  },
+  {
+    "id": "2",
+    "name": "For Dogs",
+    "img": "https://thetinypaws.com/cdn/shop/collections/dog_leash_720x.png?v=1641790966"
+  },
+  {
+    "id": "3",
+    "name": "Beds & Carriers",
+    "img": "https://thetinypaws.com/cdn/shop/collections/aleks…anovic-A7nK49HCqSI-unsplash_720x.jpg?v=1651914352"
+  },
+  {
+    "id": "4",
+    "name": "Clothing",
+    "img": "https://thetinypaws.com/cdn/shop/collections/alond…-pavon-Dqc126MQsXY-unsplash_540x.jpg?v=1673619661"
+  },
+  {
+    "id": "5",
+    "name": "Leash & Harness",
+    "img": "https://thetinypaws.com/cdn/shop/collections/rajas…hitnis-C44-HaVZhuM-unsplash_540x.jpg?v=1651913932"
+  },
+  {
+    "id": "6",
+    "name": "Bandanas & Collars",
+    "img": "https://thetinypaws.com/cdn/shop/collections/maura-mikhail-5D_DFvQ2wD0-unsplash_540x.jpg?v=1651913167"
+  },
+  
+  {
+    "id": "7",
+    "name": "Orthopaedic Beds",
+    "img": "https://thetinypaws.com/cdn/shop/collections/Scree…t_2022-08-23_at_11.01.08_AM_540x.png?v=1661232756"
+  },
+  {
+    "id": "8",
+    "name": "Toys and Towers",
+    "img": "https://thetinypaws.com/cdn/shop/collections/samia-liamani-9lVdutKM9vg-unsplash_540x.jpg?v=1673619053"
+  },
+  {
+    "id": "9",
+    "name": "Must Have",
+    "img": "https://thetinypaws.com/cdn/shop/collections/kim-davies-fEK4jvgnApg-unsplash_540x.jpg?v=1651914032"
+  }
+]
